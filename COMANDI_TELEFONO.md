@@ -6,3 +6,4 @@ Scrivi qui sotto i tuoi comandi. Quando salvi il file da GitHub, io me ne accorg
 
 **Comando:**
 (scrivi qui...)
+scrivi ciao su un file word
