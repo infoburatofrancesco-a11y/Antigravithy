@@ -6,3 +6,4 @@ Scrivi qui sotto i tuoi comandi. Quando salvi il file da GitHub, io me ne accorg
 
 **Comando:**
 (scrivi qui...)
+crea sul desktop un nuovo file excell. chiamalo Pippo e aprilo. nella cella b3 scrivi ciao
